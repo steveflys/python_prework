@@ -1,5 +1,3 @@
-# python_prework
-Prework for python
 pyg = 'ay'
 
 original = raw_input('Enter a word:')
@@ -11,13 +9,3 @@ if len(original) > 0 and original.isalpha():
   print new_word
 else:
   print 'empty'
-
-  def answer():
-  return abs(42)
-
-answer()
-
-def hotel_cost(nights):
-  return 140 * nights
-
-  
